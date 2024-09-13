@@ -38,8 +38,8 @@ Neural networks can model complex, non-linear relationships between features, ma
 
 Below are the learning curves showing the training and validation accuracy and loss over epochs:
 
-![Training and Validation Accuracy](images/accuracy.png)  
-![Training and Validation Loss](images/loss.png)
+![Training and Validation Accuracy](Model_Accuracy.png)  
+![Training and Validation Loss](Model_Loss.png)
 
 ## Getting Started
 
